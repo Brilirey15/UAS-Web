@@ -1,3 +1,4 @@
+Web project UAS bernama "Resep Masakan"
 Download semua file
 Untuk membuka web harus terkoneksi internet.
 Mohon maaf navbar agak berbeda, 
