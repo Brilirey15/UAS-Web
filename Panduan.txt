@@ -1,0 +1,4 @@
+1. Download semua file
+2. Untuk membuka web harus terkoneksi internet.
+3. Mohon maaf navbar agak berbeda, 
+mohon arahkan cursor ke arah tulisan di navbar untuk memilih. 
